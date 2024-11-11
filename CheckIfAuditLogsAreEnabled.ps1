@@ -1,0 +1,4 @@
+Install-Module -Name ExchangeOnlineManagement
+Import-Module ExchangeOnlineManagement
+Connect-ExchangeOnline
+Get-AdminAuditLogConfig | Format-List UnifiedAuditLogIngestionEnabled
