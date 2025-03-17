@@ -169,8 +169,8 @@ The **Default Environment** is open to all users, which can lead to **cluttered 
 - **Enhances governance** – Helps maintain an organized, well-documented environment.
 
 #### **Hybrid Cleanup Approach: Automation & Manual Review**
-✅ **Automated Weekly Cleanup Check** – A Power Automate Flow or other automation flags **inactive apps, orphaned flows, and unused resources**.  
-✅ **Quarterly Admin-Led Cleanup** – Environment Admins **review flagged items, confirm with business users, and remove what’s unnecessary**.
+- **Automated Weekly Cleanup Check** – A Power Automate Flow or other automation flags **inactive apps, orphaned flows, and unused resources**.  
+- **Quarterly Admin-Led Cleanup** – Environment Admins **review flagged items, confirm with business users, and remove what’s unnecessary**.
 
 #### **Cleanup Process**
 | Step | Action | Responsible Role |
